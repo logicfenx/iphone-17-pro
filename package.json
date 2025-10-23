@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/iphone-17-pro",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a iphone-17-pro",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/iphone-17-pro.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://isproto.com/iphone-17-pro-max-caracteristicas/"
+    },
+    "homepage": "https://isproto.com/iphone-17-pro-max-caracteristicas/"
+}
